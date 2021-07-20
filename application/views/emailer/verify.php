@@ -1,0 +1,1 @@
+<span>Hello, .<span><br><span>Click on button below to activate your account and explore.</span><br><br><a href='<?php echo $url; ?>' style='border: 1px solid #1b9be9; font-weight: 600; color: #fff; border-radius: 3px; cursor: pointer; outline: none; background: #1b9be9; padding: 4px 15px; display: inline-block; text-decoration: none;'>Activate</a>
